@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 1,
+        "description": "Fixed a one-pixel color discrepancy in the creative mode inventory"
+    }
+}
